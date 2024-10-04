@@ -6,6 +6,7 @@ Seleccione el numero de alguna de las siguientes opciones:
 4) Salir del sistema.
 """
 
+
 inventario = [["agua", 100, 1000],["coca", 1000, 150],["chupetines", 15, 100]]
 
 def llamar_menu(menu:str) -> str:
